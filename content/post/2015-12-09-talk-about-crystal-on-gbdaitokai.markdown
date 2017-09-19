@@ -3,7 +3,7 @@ categories: Crystal
 comments: true
 date: 2015-12-09T17:24:39Z
 title: 合同勉強会でCrystalの話をしてきた
-url: /2015/12/09/talk-about-crystal-on-gbdaitokai/
+url: /blog/2015/12/09/talk-about-crystal-on-gbdaitokai/
 ---
 
 これは[Crystalアドベントカレンダー2015](http://www.adventar.org/calendars/800)の12/9のエントリです。

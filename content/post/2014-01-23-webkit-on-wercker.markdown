@@ -3,7 +3,7 @@ categories: Ruby
 comments: true
 date: 2014-01-23T00:00:00Z
 title: werckerでrspecとcucumberのCI環境を作る
-url: /2014/01/23/webkit-on-wercker/
+url: /blog/2014/01/23/webkit-on-wercker/
 ---
 
 去年作った[Photo Leaf](http://www.photo-leaf.com/)というWebサービスがあるのですが、これのCI環境を作成したいなぁと思っていたところwerckerというCIサービスを使って構築できたので、そのまとめです。
@@ -23,7 +23,7 @@ TravisCIはGithubにあるリポジトリしかビルド対象にできません
 #### （今のところ）無料
 
 2014/1/23現在はベータのようです。将来的にはどうなるのかわからないですが、今のところ無料で使えます。制限としては「**1つのビルドが25分以内に完了すること**」ぐらいです。エンタープライズなシステムだとキツイかもですが、そこそこの規模なら問題ないんじゃないでしょうか。
- 
+
 #### テストを実行するための仮想環境が豊富に用意されている
 
 werckerでビルドを実行する際にはBoxという仮想環境内で実行されます。これが予め様々な種類が用意されています。通常のRuby(Rails)の環境とかだけではなく、JavaやAndroidといった環境も用意されています。また[Boxを自分で作る](http://devcenter.wercker.com/articles/boxes/)こともできるようです。

@@ -3,7 +3,7 @@ categories: Java
 comments: true
 date: 2016-12-31T12:47:59Z
 title: スクフェス・ログサーバをつくった
-url: /2016/12/31/schfeslogsvr/
+url: /blog/2016/12/31/schfeslogsvr/
 ---
 
 今日は大晦日ですね。年末ですが今年も例によって、コード書いたりプラモ作ったり、普段の連休と同じくダラダラ過ごしております。

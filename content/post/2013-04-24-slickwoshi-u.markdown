@@ -6,7 +6,7 @@ categories:
 comments: true
 date: 2013-04-24T00:00:00Z
 title: slickを使う（基礎編）
-url: /2013/04/24/slickwoshi-u/
+url: /blog/2013/04/24/slickwoshi-u/
 ---
 
 最近playframework2.1をちゃんと使いたいなぁと思ったので、Scala含めて色々調べてます。

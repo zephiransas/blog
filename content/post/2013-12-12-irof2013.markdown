@@ -3,7 +3,7 @@ categories: irof
 comments: true
 date: 2013-12-12T00:00:00Z
 title: 色んなバリエーションのirofさんを紹介しよう
-url: /2013/12/12/irof2013/
+url: /blog/2013/12/12/irof2013/
 ---
 
 これは[irofアドベントカレンダー2013](http://atnd.org/events/44814)の12月13日分のエントリのようです。

@@ -3,7 +3,7 @@ categories: Mac
 comments: true
 date: 2013-08-16T00:00:00Z
 title: TimeMachineで検証エラーが発生した場合の復旧方法
-url: /2013/08/16/resque-timemachine/
+url: /blog/2013/08/16/resque-timemachine/
 ---
 
 我が家の環境では、[BuffaloのLS-XLシリーズ](http://buffalo.jp/product/hdd/network/ls-xl/)というNASを使って、MBAのTime Machine環境を作っているのですが、最近よくこんなメッセージが出るようになりました。

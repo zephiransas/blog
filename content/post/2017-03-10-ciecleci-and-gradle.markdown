@@ -3,7 +3,7 @@ categories: java gradle circleci
 comments: true
 date: 2017-03-10T09:32:48Z
 title: CircleCIでGradleのテストを並列実行する
-url: /2017/03/10/ciecleci-and-gradle/
+url: /blog/2017/03/10/ciecleci-and-gradle/
 ---
 
 現在開発を行っているプロジェクトでは、Spring Bootを使って開発を行っているのですが、そこでのテストをCI環境で実行できるよう設定を行ったので、その手順を書いておきます。

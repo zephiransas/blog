@@ -3,7 +3,7 @@ categories: 勉強会
 comments: true
 date: 2016-12-18T21:21:31Z
 title: 合同勉強会2016に参加してきた
-url: /2016/12/18/gbdaitokai2016/
+url: /blog/2016/12/18/gbdaitokai2016/
 ---
 
 このエントリは[大都会岡山アドベントカレンダー2016](http://www.adventar.org/calendars/1580)の18日目のエントリです。

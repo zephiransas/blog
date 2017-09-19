@@ -7,7 +7,7 @@ categories:
 comments: true
 date: 2014-03-20T00:00:00Z
 title: Pusherを使ったChrome拡張を作る
-url: /2014/03/20/pusher-with-chrome-extension/
+url: /blog/2014/03/20/pusher-with-chrome-extension/
 ---
 
 メッセージ等の新着通知やアップデート情報の配信など、アプリケーションへの通知の方法として、スマートフォンなどで使われるpush通知など、最近では様々なものがあります。
@@ -143,4 +143,3 @@ var opt = {
 今回作成したChrome拡張は、こちらのGithubにまとめてあります。参考にしてみてください。
 
  - [pusher-extension](https://github.com/zephiransas/pusher-extension)
-

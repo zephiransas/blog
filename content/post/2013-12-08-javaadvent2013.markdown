@@ -3,7 +3,7 @@ categories: null
 comments: true
 date: 2013-12-08T00:00:00Z
 title: JavaOne2013報告会@岡山を開催しました
-url: /2013/12/08/javaadvent2013/
+url: /blog/2013/12/08/javaadvent2013/
 ---
 
 これは[Java Advent Calendar2013](http://www.adventar.org/calendars/145)の12月7日分のエントリです。

@@ -3,7 +3,7 @@ categories: Java
 comments: true
 date: 2014-11-17T20:40:56Z
 title: JJUG CCC 2014 Fallで発表してきた
-url: /2014/11/17/attend-jjug-ccc-2014-fall/
+url: /blog/2014/11/17/attend-jjug-ccc-2014-fall/
 ---
 
 11月15日に、東京は新宿の西新宿ベルサールにて開催された[JJUG CCC 2014 Fall](http://www.java-users.jp/?page_id=1284)に参加してきました。

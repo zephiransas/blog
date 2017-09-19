@@ -3,7 +3,7 @@ categories: Ruby, Rails
 comments: true
 date: 2015-07-29T15:57:26Z
 title: unicorn-worker-killerが便利だった件
-url: /2015/07/29/unicorn-worker-killer/
+url: /blog/2015/07/29/unicorn-worker-killer/
 ---
 
 自分が現在関わっているプロジェクトでは、nginx + unicornの構成で運用しているのですが、この構成でサーバのメモリが足りなくなるという現象に悩まされていました。

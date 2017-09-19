@@ -3,7 +3,7 @@ categories: null
 comments: true
 date: 2014-03-15T00:00:00Z
 title: 岡山の勉強会に参加する際の心構え
-url: /2014/03/15/what-you-shoud-eat-in-daitokai/
+url: /blog/2014/03/15/what-you-shoud-eat-in-daitokai/
 ---
 
 IT勉強会はなにも東京ばかりで開催されているわけではない。

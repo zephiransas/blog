@@ -3,7 +3,7 @@ categories: Ruby, Rails
 comments: true
 date: 2015-07-08T09:53:55Z
 title: 論理削除とeager_loadでN+1問題が発生する件
-url: /2015/07/08/eager-load-with-paranoia/
+url: /blog/2015/07/08/eager-load-with-paranoia/
 ---
 
 Railsアプリにて論理削除とeager_loadを合わせて使うとN+1問題が発生することに気づいたのでメモ。

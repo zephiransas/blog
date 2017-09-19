@@ -3,7 +3,7 @@ categories: Java
 comments: true
 date: 2014-12-16T18:17:15Z
 title: lambda-behaveでテストを書こう
-url: /2014/12/16/about-lambda-behave/
+url: /blog/2014/12/16/about-lambda-behave/
 ---
 
 これは[Javaアドベントカレンダー2014](http://qiita.com/advent-calendar/2014/java)の12/16分の記事です。
@@ -57,7 +57,7 @@ public class Sample {
 import static com.insightfullogic.lambdabehave.Suite.*;
 
 @RunWith(JunitSuiteRunner.class)
-public class SampleSpec {{ 
+public class SampleSpec {{
     describe("includeTax", it -> {
         it.should("税込み価格が取得できること", expect ->
             expect.that(Sample.includeTax(100)).is(108)

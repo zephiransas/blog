@@ -3,7 +3,7 @@ categories: iOS
 comments: true
 date: 2013-08-20T00:00:00Z
 title: weinreでiOSのブラウザのデバッグを行う手順
-url: /2013/08/20/debug-with-weinre/
+url: /blog/2013/08/20/debug-with-weinre/
 ---
 
 モバイル対応のWeb開発をしている時、iPhoneやiPadのブラウザでのデバッグに苦労したことはないですか？

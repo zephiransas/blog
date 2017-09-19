@@ -5,10 +5,10 @@ categories:
 comments: true
 date: 2013-06-18T00:00:00Z
 title: Java Day Tokyo 2013報告会@岡山を開催してきた
-url: /2013/06/18/jdt2013-okayama-report/
+url: /blog/2013/06/18/jdt2013-okayama-report/
 ---
 
-2013年6月15日（土）に、奉還町リブラホールにて「[Java Day Tokyo 2013報告会@岡山](http://local.aguuu.com/events/15432)」を開催してきました。 
+2013年6月15日（土）に、奉還町リブラホールにて「[Java Day Tokyo 2013報告会@岡山](http://local.aguuu.com/events/15432)」を開催してきました。
 
 自分は「Java Day Tokyo2013基調公演より」と題して、報告をさせていただきました。
 

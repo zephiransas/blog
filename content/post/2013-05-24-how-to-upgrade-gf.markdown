@@ -6,7 +6,7 @@ categories:
 comments: true
 date: 2013-05-24T00:00:00Z
 title: GlassFishのアップグレード方法
-url: /2013/05/24/how-to-upgrade-gf/
+url: /blog/2013/05/24/how-to-upgrade-gf/
 ---
 
 会社で使ってるJenkinsさんはGlassFish上で動いているんですが、これのアップグレードを行ったので、そのメモ。

@@ -3,7 +3,7 @@ categories: null
 comments: true
 date: 2014-02-06T00:00:00Z
 title: Photo Leafをちょっとリニューアルしました
-url: /2014/02/06/renew-photoleaf/
+url: /blog/2014/02/06/renew-photoleaf/
 ---
 
 前から気になっていた[Photo Leaf](http://www.photo-leaf.com)のフォトブック作成画面のリニューアルをしました。

@@ -3,7 +3,7 @@ categories: Java Gulp SASS
 comments: true
 date: 2017-04-05T16:13:17Z
 title: Spring BootのCSSをGulpで管理する
-url: /2017/04/05/gulp-sass/
+url: /blog/2017/04/05/gulp-sass/
 ---
 
 Spring BootのプロジェクトでもSASSが書きたい！という欲望から、Gulpを使ってSASSをコンパイルするようにしました。

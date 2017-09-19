@@ -6,7 +6,7 @@ categories:
 comments: true
 date: 2014-03-12T00:00:00Z
 title: Java8で始めるLambda（基礎編）
-url: /2014/03/12/java8lambda/
+url: /blog/2014/03/12/java8lambda/
 ---
 
 まもなくリリース予定のJava8。その中でも最も大きなインパクトを持つというProject Lambdaについて、ここ数日調べてみました。

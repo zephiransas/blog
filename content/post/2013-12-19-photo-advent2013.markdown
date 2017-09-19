@@ -3,7 +3,7 @@ categories: null
 comments: true
 date: 2013-12-19T00:00:00Z
 title: Illumination Photo Advent Calendar 2013
-url: /2013/12/19/photo-advent2013/
+url: /blog/2013/12/19/photo-advent2013/
 ---
 
 これは[Illumination Photo Advent Calendar 2013](http://www.adventar.org/calendars/67)の12月21日分のエントリです。

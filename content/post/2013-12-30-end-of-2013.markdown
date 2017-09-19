@@ -3,7 +3,7 @@ categories: null
 comments: true
 date: 2013-12-30T00:00:00Z
 title: 2013年を振り返って
-url: /2013/12/30/end-of-2013/
+url: /blog/2013/12/30/end-of-2013/
 ---
 
 今年も終わりですね。というわけで恒例の、今年の振り返りエントリです。

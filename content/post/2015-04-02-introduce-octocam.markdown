@@ -3,7 +3,7 @@ categories: Ruby
 comments: true
 date: 2015-04-02T17:31:42Z
 title: GitHubのPull requestから、CHANGELOGっぽいものを作成するgemを作った
-url: /2015/04/02/introduce-octocam/
+url: /blog/2015/04/02/introduce-octocam/
 ---
 
 gemを作りました。名前はoctocamです。

@@ -3,7 +3,7 @@ categories: Java
 comments: true
 date: 2016-05-23T16:34:12Z
 title: Maven Wrapperを使ってプロジェクトで使うMavenのバージョンを指定する
-url: /2016/05/23/maven-wrapper/
+url: /blog/2016/05/23/maven-wrapper/
 ---
 
 Javaでの開発において、ライブラリのバージョン管理にMavenを用いているところはたくさんあると思います。

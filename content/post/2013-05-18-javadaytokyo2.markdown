@@ -5,7 +5,7 @@ categories:
 comments: true
 date: 2013-05-18T00:00:00Z
 title: Java Day Tokyo 2013に参加してきた（セッション）
-url: /2013/05/18/javadaytokyo2/
+url: /blog/2013/05/18/javadaytokyo2/
 ---
 
 前回の基調講演につづいて、今回は自分が参加したセッションのレポートです。
@@ -96,4 +96,3 @@ JavaSE7がリリースされて随分経ちますが、これでようやくス�
 お申込みは[こちら](http://local.aguuu.com/events/15432)からです。
 
 お近くの方は、是非ご参加ください。
-

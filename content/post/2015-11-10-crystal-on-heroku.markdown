@@ -3,7 +3,7 @@ categories: crystal, heroku
 comments: true
 date: 2015-11-10T12:28:48Z
 title: CrystalをHerokuで動かしてみた
-url: /2015/11/10/crystal-on-heroku/
+url: /blog/2015/11/10/crystal-on-heroku/
 ---
 
 最近ちょっと話題のcrystal。これをHerokuで動かしてみました。

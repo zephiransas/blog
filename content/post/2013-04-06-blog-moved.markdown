@@ -3,7 +3,7 @@ categories: Diary
 comments: true
 date: 2013-04-06T00:00:00Z
 title: ブログを引越しました
-url: /2013/04/06/blog-moved/
+url: /blog/2013/04/06/blog-moved/
 ---
 
 以前使っていた、[はてなダイアリー](http://d.hatena.ne.jp/zephiransas)からGithub Pagesへ移行しようとおもって、はや４ヶ月・・・

@@ -4,7 +4,7 @@ categories:
 comments: true
 date: 2013-05-20T00:00:00Z
 title: 写真で振り返るゆとり
-url: /2013/05/20/yutori-advent-calendar/
+url: /blog/2013/05/20/yutori-advent-calendar/
 ---
 
 これは「[ゆとりアドベントカレンダー](http://atnd.org/events/39189)」の5/20分のエントリです

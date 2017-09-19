@@ -3,7 +3,7 @@ categories: null
 comments: true
 date: 2013-06-27T00:00:00Z
 title: Photo Leafをリリースしました
-url: /2013/06/27/photoleaf-release/
+url: /blog/2013/06/27/photoleaf-release/
 ---
 
 本日、フォトブック作成サービス「[Photo Leaf](http://www.photo-leaf.com)」をリリースしました。

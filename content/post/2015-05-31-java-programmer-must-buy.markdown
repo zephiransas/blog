@@ -3,7 +3,7 @@ categories: Java
 comments: true
 date: 2015-05-31T22:29:48Z
 title: JavaプログラマがKindle50%還元セールで買っておくべきIT技術書
-url: /2015/05/31/java-programmer-must-buy/
+url: /blog/2015/05/31/java-programmer-must-buy/
 ---
 
 Kindle Storeでセールをやってるようです。今回は50%をポイント還元するってセールらしいです。

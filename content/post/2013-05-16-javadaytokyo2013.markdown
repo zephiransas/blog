@@ -5,7 +5,7 @@ categories:
 comments: true
 date: 2013-05-16T00:00:00Z
 title: Java Day Tokyo 2013に参加してきた（基調講演）
-url: /2013/05/16/javadaytokyo2013/
+url: /blog/2013/05/16/javadaytokyo2013/
 ---
 
 <img src="http://farm8.staticflickr.com/7284/8740166245_72f3003e48_n.jpg"/>
@@ -58,7 +58,7 @@ JavaEEは次のメジャーバージョンであるJavaEE7のリリースを6月
 
 JavaEE7の主な新機能としては
 
-- JBatch 
+- JBatch
 - JSON対応
 - WebSocket対応
 

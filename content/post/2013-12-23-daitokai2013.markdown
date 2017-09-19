@@ -3,7 +3,7 @@ categories: null
 comments: true
 date: 2013-12-23T00:00:00Z
 title: 牡蠣駆動勉強会を行いました
-url: /2013/12/23/daitokai2013/
+url: /blog/2013/12/23/daitokai2013/
 ---
 
 これは[大都会アドベントカレンダー2013](http://www.adventar.org/calendars/75)の12/23分のエントリーです。

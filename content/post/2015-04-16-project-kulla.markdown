@@ -3,7 +3,7 @@ categories: Java
 comments: true
 date: 2015-04-16T12:26:30Z
 title: Project Kullaを試す
-url: /2015/04/16/project-kulla/
+url: /blog/2015/04/16/project-kulla/
 ---
 
 以前から気になっていたJavaのREPL、Project Kullaを動かしてみました。

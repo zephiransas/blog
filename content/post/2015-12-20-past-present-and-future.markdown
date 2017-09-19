@@ -3,7 +3,7 @@ categories: null
 comments: true
 date: 2015-12-20T00:00:00Z
 title: Past, Present and Future
-url: /2015/12/20/past-present-and-future/
+url: /blog/2015/12/20/past-present-and-future/
 ---
 
 これは[大都会アドベントカレンダー](http://luna3.heteml.jp/etc/entry-12.html)24日目の記事です。
