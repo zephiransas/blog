@@ -1,0 +1,5 @@
+baseURL = "http://zephiransas.github.io/"
+disablePathToLower = "true"
+languageCode = "ja"
+title = "zephiransasのチラシの裏"
+theme = "bleak"
