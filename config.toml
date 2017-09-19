@@ -1,4 +1,4 @@
-baseURL = "http://zephiransas.github.io/"
+baseURL = "https://zephiransas.github.io/"
 disablePathToLower = "true"
 languageCode = "ja"
 title = "zephiransasのチラシの裏"
