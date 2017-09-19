@@ -23,7 +23,7 @@ Lambdaを使用するには、まずインターフェースを宣言する必�
 
 となるので、この場合は以下の様なインターフェースを宣言します。
 
-``` java LambdaInterface.class
+``` java
 public interface LambdaInterface {
   String method(String value);
 }
@@ -47,7 +47,7 @@ public interface LambdaInterface {
 
 よってLambdaInterfaceを使って書くと、以下のようになります。
 
-``` java Sample.class
+``` java
 public class Sample {
 
   public static void main(String... args) {
@@ -74,7 +74,7 @@ public class Sample {
 
 上記ルールに沿ったLambdaであれば省略可能です。ですので先ほどのコードも以下の様に省略できます。
 
-``` java Sample.class
+``` java
 public class Sample {
 
   public static void main(String... args) {
@@ -102,7 +102,7 @@ public interface Function<T, R> {
 
 先のコードをFunctionインターフェースを使って書き直すと。
 
-``` java Sample.class
+``` java
 public class Sample {
 
   public static void main(String... args) {
@@ -139,7 +139,7 @@ public class Sample {
 
 例えば先の文字列の前後にカッコをつけるメソッドが以下のようにSampleクラスのstaticメソッドとして定義されていた場合
 
-``` java Sample.class
+``` java
 public class Sample {
 
   public static void main(String... args) {
@@ -155,7 +155,7 @@ public class Sample {
 
 Sample.addをメソッド参照するには
 
-``` java Sample.class
+``` java
 public class Sample {
 
   public static void main(String... args) {
@@ -172,7 +172,7 @@ public class Sample {
 
 ここではstaticなクラスメソッドを使いましたが、インスタンスメソッドの場合も同様に、インスタンスを生成し、そこからメソッド参照をすることができます。
 
-``` java Sample.class
+``` java
 public class Sample {
 
   public static void main(String... args) {

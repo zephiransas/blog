@@ -26,13 +26,13 @@ unicorn-worker-killerを使うことで、ワーカプロセスが以下の条�
 
 ### リクエストの回数基準で再起動する
 
-``` ruby config.ru
+``` ruby
 use Unicorn::WorkerKiller::MaxRequests, 3072, 4096
 ```
 
 これはワーカプロセスが、3072回~4096回のいずれかの回数リクエストを処理したら再起動する設定です。
 
-``` ruby config.ru
+``` ruby
 use Unicorn::WorkerKiller::MaxRequests, 3072, 4096, true
 ```
 
@@ -40,7 +40,7 @@ use Unicorn::WorkerKiller::MaxRequests, 3072, 4096, true
 
 ### メモリの使用量を基準に再起動する
 
-``` ruby config.ru
+``` ruby
 use Unicorn::WorkerKiller::Oom, (192*(1024**2)), (256*(1024**2)), 16
 ```
 
@@ -66,13 +66,13 @@ use Unicorn::WorkerKiller::Oom, (192*(1024**2)), (256*(1024**2)), 16
 
 まずはGemfileに
 
-``` ruby Gemfile
+``` ruby
 gem 'unicorn-worker-killer'
 ```
 
 と設定します。config.ruの設定は、以下のようになります。
 
-``` ruby config.ru
+``` ruby
 use Unicorn::WorkerKiller::MaxRequests, 100, 120, true
 ```
 

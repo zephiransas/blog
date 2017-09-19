@@ -37,7 +37,7 @@ heroku
 
 app.crというファイル名で以下のファイルを準備します。
 
-``` ruby app.cr
+``` ruby
 require "http/server"
 require "option_parser"
 
@@ -90,7 +90,7 @@ crystal run app.cr
 
 次にProcfileを以下のように準備します。
 
-``` bash Procfile
+``` bash
 web: ./app -p $PORT
 ```
 

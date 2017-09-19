@@ -43,7 +43,7 @@ werckerにログインして、とりあえず普通にビルドするまでの�
 
 上記で設定したwercker.ymlに対して、rspecとcucumberを実行するように設定していきます。自分が設定したwercker.ymlは以下のような感じ
 
-``` yml wercker.yml
+``` yml
 box: wercker/rvm
 # Build definition
 # See the Rails section on the wercker devcenter:
@@ -115,7 +115,7 @@ build:
 
 capybara-webkitを動かすにはX11が使用できる必要があります。なのでXvfbを仮想環境で実行する必要があります。その設定が以下の部分。
 
-``` yml wercker.yml
+``` yml
 - script:
     name: Enable virtual display
     code: |-

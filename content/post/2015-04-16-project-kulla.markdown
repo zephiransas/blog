@@ -85,7 +85,7 @@ cd langtools/repl
 
 scripts/compileを以下のように修正します。
 
-``` bash scripts/compile
+``` bash
 #!/bin/sh
 JLINE2LIB=/Users/[ユーザ名]/jline2/target/jline-2.13-SNAPSHOT.jar
 JAVAC_BIN_HOME=/Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/bin
@@ -111,7 +111,7 @@ scripts/compile
 
 実行前にscripts/runを以下のように修正します。
 
-``` bash scripts/run
+``` bash
 #!/bin/sh
 JLINE2LIB=/Users/[ユーザ名]/jline2/target/jline-2.13-SNAPSHOT.jar
 JAVA_BIN_HOME=/Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/bin/

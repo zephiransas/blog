@@ -30,7 +30,7 @@ url: /blog/2014/03/20/pusher-with-chrome-extension/
 
 ### manifest.jsonの設定
 
-``` json manifest.json
+``` json
 {
     "manifest_version": 2,
     "name": "Pusher test extension",
@@ -73,7 +73,7 @@ url: /blog/2014/03/20/pusher-with-chrome-extension/
 
 あとはChrome拡張のバックグラウンドで実行されるbackground.jsで、Pusherとの接続を行います。
 
-``` javascript background.js
+``` javascript
 var pusher = new Pusher("======== KEY ========", { encrypted: true });
 var channel = pusher.subscribe('test_channel');
 channel.bind('my_event', function(data) {
@@ -129,7 +129,7 @@ Pusherの管理画面から「Event creator」を選択し、以下のように�
 
 今回はアイコン画像のURLを指定しなかったので、なにも表示されていませんが、以下の用に画像へのURLを指定することでアイコンを表示することもできます。
 
-``` javascript background.js
+``` javascript
 var opt = {
   type: 'basic',
   title: data.title,

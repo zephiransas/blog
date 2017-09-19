@@ -12,7 +12,7 @@ url: /blog/2017/03/10/ciecleci-and-gradle/
 
 最初は並列ではなく、1つのコンテナを使ってCircleCIでテストできるように設定を行います。まずcircle.ymlを以下のように準備。
 
-``` yml circle.yml
+``` yml
 machine:
   java:
     version: openjdk8
@@ -66,7 +66,7 @@ CircleCIではdatabaseサイクルが終わったタイミングで、次回の�
 
 CircleCIで動かす場合はデータベースの接続先が開発環境などとは変わるはずですので、CircleCI専用のapplication.ymlをapplication-ci.ymlとして作成します。
 
-``` yml application-ci.yml
+``` yml
 spring:
   profiles:
     active: ci
@@ -114,7 +114,7 @@ https://docs.gradle.org/current/userguide/java_plugin.html#test_filtering
 
 まずは、このオプションを組み立てつつ、gradleｗ実行する専用のシェルスクリプト（circleci.sh)を準備します。
 
-``` bash circleci.sh
+``` bash
 testFiles=$(find ./src/test -name *Test.java | sort | awk "NR % ${CIRCLE_NODE_TOTAL} == ${CIRCLE_NODE_INDEX}")
 echo $testFiles
 SPRING_PROFILES_ACTIVE=ci ./gradlew :webapp:test -PtestFiles="$testFiles"
@@ -124,7 +124,7 @@ CircleCI上でビルドに使用しているノード数は環境変数CIRCLE_NO
 
 次にbuild.gradle内では-Pオプションで渡されたtestFilesのみをテスト対象にするよう、includeTestsMatchingを使って設定を行います。
 
-``` bash build.gradle
+``` bash
 test {
   if (project.hasProperty("testFiles")) {
       ArrayList files = project.getProperties().get("testFiles")
@@ -146,7 +146,7 @@ test {
 
 最後に、並列実行できるようcircle.ymlを修正します。
 
-``` yml circle.yml
+``` yml
 test:
   override:
     - ./circleci.sh:

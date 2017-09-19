@@ -78,7 +78,7 @@ FROM "posts" LEFT OUTER JOIN "comments" ON "comments"."post_id" = "posts"."id"
 
 Railsには論理削除に関するgemは多数ありますが、現在のデファクトスタンダードは[paranoia](https://github.com/radar/paranoia)だと思います。まずはparanoiaをGemfileに記述します。
 
-``` ruby Gemfile
+``` ruby
 gem 'paranoia', '~> 1.0'  # Rails3系には1.0系を使用
 ```
 
