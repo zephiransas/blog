@@ -7,3 +7,6 @@ theme = "bleak"
 [params]
   # Warning Keys are case sensitives
   Subtitle = "とあるプログラマのメモ代わりブログ"
+
+  [params.author]
+    twitter = "zephiransas"
