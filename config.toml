@@ -3,6 +3,7 @@ disablePathToLower = "true"
 languageCode = "ja"
 title = "zephiransasのチラシの裏"
 theme = "bleak"
+buildFuture = true
 
 [params]
   # Warning Keys are case sensitives
