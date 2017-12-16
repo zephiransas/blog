@@ -3,11 +3,12 @@ disablePathToLower = "true"
 languageCode = "ja"
 title = "zephiransasのチラシの裏"
 theme = "bleak"
-buildFuture = true
+# buildFuture = true
 
 [params]
   # Warning Keys are case sensitives
   Subtitle = "とあるプログラマのメモ代わりブログ"
+  logo = '/images/zephiransas.jpeg'
 
   [params.author]
     twitter = "zephiransas"
